@@ -35,7 +35,7 @@ disableAnchoredHeadings: true
 ---
 ## Scholarships/Achievements
 
-+ Prime Minister's Research Fellowship (PMRF) 2022
++ Prime Minister's Research Fellowship (PMRF) 2022-2026
 + Qualified GATE-2021, CSIR NET June 2021
 + Dr. T.M.A Pai Gold Medal as the best student in the final degree from MGM College, Udupi 2019
 + INSPIRE Scholarship (SHE) (2016-2021)

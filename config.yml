@@ -69,7 +69,7 @@ params:
     profileMode:
           enabled: true
           title: Meghana Bhat
-          subtitle: "I'm a PhD student in Mathematics at the <a href='https://www.iitdh.ac.in' style='color: navy;'>Indian Institute of Technology Dharwad</a>. 
+          subtitle: "I received my PhD in Mathematics from <a href='https://www.iitdh.ac.in' style='color: navy;'>Indian Institute of Technology Dharwad</a> in July 2026. 
                      My research interest is in <i style='color: navy;'>Commutative algebra and Algebraic Geometry</i>. In particular, I work on problems related to <i style='color: navy;'>Hilbert functions</i>, and <i style='color: navy;'>Waring rank of forms</i>.
                     <br>
                     <br>
@@ -79,7 +79,9 @@ params:
                     <br>
                     Contact: mbhat.math@gmail.com, ma21dpf01@iitdh.ac.in
                     <br>
-                    Office: 603, A2 Science Block, IIT Dharwad"
+                    Office: --
+                    <br>
+                    Currently looking for postdoctoral positions in Commutative Algebra and Algebraic Geometry. I am also open to work on problems related to Waring rank of forms, Hilbert functions or any other problem that sounds interesting."
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160

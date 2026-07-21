@@ -18,9 +18,9 @@ cover:
 ---
 ## Preprints
 <ol>
-<li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2026. 
+<li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections and certain binomials" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2026. 
 
-<li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2511.23035">arXiv:2511.23035</a>, 2025. <a href="/Genoa.pdf">Poster PDF.</a></font> </li>
+<li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. Linear algebra and its applications, 130-164. <a href="https://www.sciencedirect.com/science/article/pii/S0024379526002788">DOI:10.1016/j.laa.2026.06.027</a>, 2026. <a href="/Genoa.pdf">Poster PDF.</a></font> </li>
 
 <li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2503.21173">arXiv:2503:21173</a>, 2025.</li>
 

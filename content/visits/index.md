@@ -41,13 +41,16 @@ disableAnchoredHeadings: false
 ---
 ### Workshops/Conferences
 The following is a list of workshops and conferences that I have attended.
+#### 2026
++ Women in commutative algebra (WICA) - IV held at International Center for Mathematical Sciences (ICMS) Edinburgh, UK (20th July - 24th July)
++ Indo-European conference on Mathematics, held in Pune, India (12th Jan - 16th Jan)
 #### 2025
 + NCM Workshop on "Recenet Developements in Commutative Algebra" held at IIT Dharwad (24th June - 29th June)
 #### 2024
 + NCM Workshop on "Recent Trends in Commutative Algebra" held at IIT Bombay. (17th June - 22nd June)
-+ "International Conference on Local rings and Singularities" held at IIT Bombay. (13th June -15th June)
++ "International Conference on Local rings and Singularities" held at IIT Bombay. (13th June - 15th June)
 
-+ "Connections workshop: commutative algebra" held at SL Math institute Berkeley, California USA. (22nd Jan -26th Jan 2024)
++ "Connections workshop: commutative algebra" held at SL Math institute Berkeley, California USA. (22nd Jan - 26th Jan 2024)
 
 
 #### 2023
